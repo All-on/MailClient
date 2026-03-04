@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your-username/MailClient">
+  <a href="https://github.com/All-on/MailClient">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -70,6 +70,11 @@ MailClient is a desktop application for sending and receiving emails via **SMTP*
 
 - ✅ Compatible with standard SMTP/POP3 email services (e.g., QQ Mail, 163 Mail, Gmail).
 - ❌ **Not compatible** with ProtonMail or Tutanota due to their closed protocols and lack of standard POP3/SMTP support.
+
+<!-- LINK -->
+## Link
+ 
+Project Link: [https://github.com/All-on/MailClient](https://github.com/All-on/MailClient)
 
 
 [Python-badge]: https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white
