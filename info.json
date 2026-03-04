@@ -1,0 +1,108 @@
+{
+  "email_providers": {
+    "qq.com": {
+      "smtp": {
+        "server": "smtp.qq.com",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 QQ 邮箱授权码（非登录密码）"
+      },
+      "pop3": {
+        "server": "pop.qq.com",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "cstnet.cn": {
+      "smtp": {
+        "server": "mail.cstnet.cn",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入客户端专用密码"
+      },
+      "pop3": {
+        "server": "mail.cstnet.cn",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "mails.ucas.ac.cn": {
+      "smtp": {
+        "server": "mail.cstnet.cn",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入客户端专用密码"
+      },
+      "pop3": {
+        "server": "mail.cstnet.cn",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "163.com": {
+      "smtp": {
+        "server": "smtp.163.com",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 163 邮箱授权码（非登录密码）"
+      },
+      "pop3": {
+        "server": "pop.163.com",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "126.com": {
+      "smtp": {
+        "server": "smtp.126.com",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 126 邮箱授权码（非登录密码）"
+      },
+      "pop3": {
+        "server": "pop.126.com",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "sina.com": {
+      "smtp": {
+        "server": "smtp.sina.com",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 sina 邮箱授权码（非登录密码）"
+      },
+      "pop3": {
+        "server": "pop.sina.com",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "sina.cn": {
+      "smtp": {
+        "server": "smtp.sina.cn",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 sina 邮箱授权码（非登录密码）"
+      },
+      "pop3": {
+        "server": "pop.sina.cn",
+        "port": 995,
+        "ssl": true
+      }
+    },
+    "sohu.com": {
+      "smtp": {
+        "server": "smtp.sohu.com",
+        "port": 465,
+        "ssl": true,
+        "auth_note": "请输入 sohu 邮箱登录密码"
+      },
+      "pop3": {
+        "server": "pop.sohu.com",
+        "port": 995,
+        "ssl": true
+      }
+    }
+  }
+}
