@@ -14,7 +14,7 @@
 
 ## About The Project
 
-MailClient is a desktop application for sending and receiving emails via **SMTP** and **POP3**. It features **custom end-to-end encryption** based on a dynamic Base64 encoding table, ensuring that only the intended recipient can read the messages. This project is developed as part of the Computer Networks course at the School of Cyber Security, University of Chinese Academy of Sciences.
+MailClient is a desktop application for sending and receiving emails via **SMTP** and **POP3**. It features **custom end-to-end encryption** based on a dynamic Base64 encoding table, ensuring that only the intended recipient can read the messages. This project is developed as part of the Computer Networks course at the School of Cyber Security, University of Chinese Academy of Sciences(UCAS).
 
 ### Key Features
 - ✉️ Send and receive emails using standard SMTP/POP3
